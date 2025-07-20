@@ -1,4 +1,4 @@
 # Demo-Project
 My first repository
 <br>
-Author - Ruturaj Gawade
+Author - Ruturaj Sanjay Gawade
